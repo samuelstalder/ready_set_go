@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/41792/Documents/HS2021/MOBA1/SET/AndroidSet/New_new_new_set/app/src/main/res/layout/activity_main.xml" value="0.2672239108409321" />
+        <entry key="..\:/Users/41792/Documents/HS2021/MOBA1/SET/AndroidSet/New_new_new_set/app/src/main/res/layout/card_item.xml" value="0.31302083333333336" />
+        <entry key="..\:/Users/41792/Documents/HS2021/MOBA1/SET/AndroidSet/New_new_new_set/app/src/main/res/layout/card_layout.xml" value="0.15045592705167174" />
+        <entry key="..\:/Users/41792/Documents/HS2021/MOBA1/SET/AndroidSet/New_new_new_set/app/src/main/res/layout/content_main.xml" value="0.1" />
+        <entry key="..\:/Users/41792/Documents/HS2021/MOBA1/SET/AndroidSet/New_new_new_set/app/src/main/res/layout/fragment_first.xml" value="0.3104166666666667" />
+        <entry key="..\:/Users/41792/Documents/HS2021/MOBA1/SET/AndroidSet/New_new_new_set/app/src/main/res/layout/fragment_second.xml" value="0.33" />
+        <entry key="..\:/Users/41792/Documents/HS2021/MOBA1/SET/AndroidSet/New_new_new_set/app/src/main/res/menu/menu_main.xml" value="0.31614583333333335" />
+        <entry key="..\:/Users/zanko/Desktop/GitHub/AndroidSet/New_new_new_set/app/src/main/res/layout/activity_main.xml" value="0.26296296296296295" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
